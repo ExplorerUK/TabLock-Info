@@ -20,4 +20,4 @@ For example:
 
 apex_debug.message( 'Tablock **Enhanced** Debug Guide>',p_level=>3);
 
-_Warning:_ Using the Enhanced JS presents an XSS risk; please proceed only if you are happy to accept this this risk.
+_Warning:_ Using the Render HTML option presents an XSS risk; please proceed only if you are happy to accept this this risk.
