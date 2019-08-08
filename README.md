@@ -24,7 +24,8 @@ Ctrl-Double-Click to rotate the case of text fields, with a special focus on lab
 Revealer Tab displays browser values associated with page items, IGs and Editable Interactive Grids. It also works within modal dialogs. Saves you typing apex.item('P1_NEW').getValue() in the console
 
 ## Extended Debug
-Debugging at level 3 causes highlighting within the debugger for quick access to user defined debug messages
+Debugging at level 3 causes highlighting within the debugger for quick access to user defined debug messages. Read more on this here
+https://github.com/ExplorerUK/TabLock-Info/blob/master/Enhanced-Debug-Guide.md
 
 ## Validate & Close for Code Editors
 Clicking this button causes the Code Editor to compile and only close when the code validates. This saves you a few mouse-kilometers a day.
@@ -34,9 +35,3 @@ Using the option forces all code editors to use a specific additional them rathe
 
 ## APEX 5 style shortcuts for higher versions of APEX
 You can once again use CTR+ALT+R and CTRL+ALT+S to Save&Run or Save your page in all newer version of APEX
-
-
-
-
-
-
