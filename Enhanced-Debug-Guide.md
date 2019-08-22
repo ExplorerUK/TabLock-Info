@@ -2,6 +2,8 @@
 
 By ticking the **Enhance Debug** checkbox option in TabLock, any messages which you debug will automatically highlight View Debug when following a method below.
 
+NOTE: There is no need to customise the debugger Interactive Report as per the 'Enhanced Debugger' blog here https://explorer.co.uk/enhancing-apex-debugger/
+
 ![alt text](https://github.com/ExplorerUK/TabLock-Info/blob/master/tablock-enhanced-debug.PNG?raw=true "Enhanced Debug")
 
 ## _Method 1: Debug at Level 3_
